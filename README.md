@@ -1,4 +1,4 @@
-"## SenFileCompressor" 
+"##SenFileCompressor" 
 L’objectif de ce MP est de mettre sur place un logiciel d’archivage et de compression de
 fichiers.
 Pour rappel, l’archivage est l’utilisation d'un seul fichier pour stocker plusieurs fichiers et la
